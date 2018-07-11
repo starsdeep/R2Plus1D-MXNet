@@ -12,7 +12,7 @@ Caffe2 Implementation: https://github.com/facebookresearch/R2Plus1D
 
 ## Result
 
-Achieved 92.6% Accuracy(Clip@1, prediction using only 1 clip) on UCF101 Dataset, which is **higher than the original Caffe2 model**(Accuracy 91.3%).
+Achieved **92.6%** Accuracy(Clip@1, prediction using only 1 clip) on UCF101 Dataset, which is **1.3% higher than the original Caffe2 model**(Accuracy 91.3%).
 
 ## Usage
 
